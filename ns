@@ -1,0 +1,11 @@
+<html>
+<head>
+<title>my first webpage</title>
+</head>
+<body>
+<h1>image</h1>
+<img src="C:\Users\ranjitha\Desktop\aa.jpg" hight=500 width=500>
+</body>
+</html>
+
+
